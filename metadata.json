@@ -1,0 +1,7 @@
+{
+  "name": "PurineLens",
+  "description": "A smart food analyzer for gout patients. Upload or take a photo of food to instantly estimate purine levels and get health advice.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
